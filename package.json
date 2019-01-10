@@ -1,0 +1,19 @@
+{
+  "name": "mendoza-_assignment3",
+  "version": "1.0.0",
+  "description": "Private Blockchain migrated using RESTful API and several dependencies",
+  "main": "index.js",
+  "scripts": 
+  {
+    "start": "node index.js"
+  },
+  "author": "Francis Mendoza",
+  "license": "ISC",
+  "dependencies": 
+  {
+    "boom": "^7.2.0",
+    "crypto-js": "^3.1.9-1",
+    "hapi": "^17.5.3",
+    "level": "^4.0.0"
+  }
+}
