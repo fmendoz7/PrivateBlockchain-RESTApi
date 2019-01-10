@@ -1,4 +1,4 @@
-# README- Mendoza- Assignment3 
+# README- Mendoza- PrivateBlockchainRESTApi
 
 ### Project Objectives
 - Selecting a Node.js framework (hapi in this case)
